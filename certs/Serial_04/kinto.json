@@ -1,15 +1,15 @@
 {
-  "schema": 1547754108369,
+  "schema": 1483471393228,
   "details": {
-    "bug": "https://bugzilla.mozilla.org/show_bug.cgi?id=1521150",
-    "who": "",
-    "why": "",
-    "name": "",
-    "created": "2019-01-18T11:45:13Z"
+    "bug": "https://bugzilla.mozilla.org/show_bug.cgi?id=1315199",
+    "who": ".",
+    "why": ".",
+    "name": "Revoked intermediates",
+    "created": "2017-01-03T18:41:53Z"
   },
   "enabled": true,
-  "issuerName": "MIGuMQswCQYDVQQGEwJFVTFDMEEGA1UEBxM6TWFkcmlkIChzZWUgY3VycmVudCBhZGRyZXNzIGF0IHd3dy5jYW1lcmZpcm1hLmNvbS9hZGRyZXNzKTESMBAGA1UEBRMJQTgyNzQzMjg3MRswGQYDVQQKExJBQyBDYW1lcmZpcm1hIFMuQS4xKTAnBgNVBAMTIENoYW1iZXJzIG9mIENvbW1lcmNlIFJvb3QgLSAyMDA4",
+  "issuerName": "MDQxCzAJBgNVBAYTAkZSMRIwEAYDVQQKDAlEaGlteW90aXMxETAPBgNVBAMMCENlcnRpZ25h",
   "serialNumber": "BA==",
-  "id": "5d203d0c-a393-4007-bf81-e7468b44a3f9",
+  "id": "b9ac21bb-8c1e-e562-5418-bbf6f6323c45",
   "lastModified": 0
 }

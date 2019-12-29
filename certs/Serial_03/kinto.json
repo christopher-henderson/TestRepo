@@ -1,15 +1,15 @@
 {
-  "schema": 1557946688579,
+  "schema": 1480349159276,
   "details": {
-    "bug": "",
-    "who": "",
-    "why": "",
-    "name": "",
-    "created": ""
+    "bug": "https://bugzilla.mozilla.org/show_bug.cgi?id=1314673",
+    "who": ".",
+    "why": ".",
+    "name": "SecureSign Public CA11 intermediate CA cert",
+    "created": "2016-11-03T12:46:07Z"
   },
   "enabled": true,
-  "issuerName": "MIGqMQswCQYDVQQGEwJFUzEbMBkGA1UEChMSQUMgQ2FtZXJmaXJtYSBTLkEuMRIwEAYDVQQFEwlBODI3NDMyODcxSzBJBgNVBAcTQk1hZHJpZCAoc2VlIGN1cnJlbnQgYWRkcmVzcyBhdCBodHRwczovL3d3dy5jYW1lcmZpcm1hLmNvbS9hZGRyZXNzKTEdMBsGA1UEAxMUQUMgQ2FtZXJmaXJtYSAtIDIwMDk=",
+  "issuerName": "MFgxCzAJBgNVBAYTAkpQMSswKQYDVQQKEyJKYXBhbiBDZXJ0aWZpY2F0aW9uIFNlcnZpY2VzLCBJbmMuMRwwGgYDVQQDExNTZWN1cmVTaWduIFJvb3RDQTEx",
   "serialNumber": "Aw==",
-  "id": "d65240be-ff5e-47d9-90ba-93266235feaf",
+  "id": "ec4f91dd-7560-920a-f178-e8ae460dd595",
   "lastModified": 0
 }
