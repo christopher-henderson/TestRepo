@@ -1,0 +1,15 @@
+{
+  "schema": 1480349159276,
+  "details": {
+    "bug": "https://bugzilla.mozilla.org/show_bug.cgi?id=1155114",
+    "who": ".",
+    "why": ".",
+    "name": "Intermediate CA's under Staat der Nederlanden Root CA",
+    "created": "2015-05-08T10:54:05Z"
+  },
+  "enabled": true,
+  "issuerName": "MFkxCzAJBgNVBAYTAk5MMR4wHAYDVQQKExVTdGFhdCBkZXIgTmVkZXJsYW5kZW4xKjAoBgNVBAMTIVN0YWF0IGRlciBOZWRlcmxhbmRlbiBPdmVyaGVpZCBDQQ==",
+  "serialNumber": "ATFEdg==",
+  "id": "4a17f132-602c-2d30-a781-145087794075",
+  "lastModified": 0
+}

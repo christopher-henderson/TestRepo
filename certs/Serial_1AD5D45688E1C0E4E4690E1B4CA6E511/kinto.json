@@ -1,0 +1,15 @@
+{
+  "schema": 1480349159276,
+  "details": {
+    "bug": "https://bugzilla.mozilla.org/show_bug.cgi?id=1286752",
+    "who": ".",
+    "why": ".",
+    "name": "Symantec erroneous SHA-1 certificates",
+    "created": "2016-07-14T14:40:23Z"
+  },
+  "enabled": true,
+  "issuerName": "MIG8MQswCQYDVQQGEwJVUzEXMBUGA1UEChMOVmVyaVNpZ24sIEluYy4xHzAdBgNVBAsTFlZlcmlTaWduIFRydXN0IE5ldHdvcmsxOzA5BgNVBAsTMlRlcm1zIG9mIHVzZSBhdCBodHRwczovL3d3dy52ZXJpc2lnbi5jb20vcnBhIChjKTEwMTYwNAYDVQQDEy1WZXJpU2lnbiBDbGFzcyAzIEludGVybmF0aW9uYWwgU2VydmVyIENBIC0gRzM=",
+  "serialNumber": "GtXUVojhwOTkaQ4bTKblEQ==",
+  "id": "9475e2f6-7247-cbe1-5055-8af86f39a149",
+  "lastModified": 0
+}

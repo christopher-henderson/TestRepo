@@ -1,0 +1,15 @@
+{
+  "schema": 1504798796770,
+  "details": {
+    "bug": "https://bugzilla.mozilla.org/show_bug.cgi?id=1394595",
+    "who": "mgoodwin@mozilla.com",
+    "why": "Unknown",
+    "name": "Add Firmaprofesional subCA Santander Digital Signature to OneCRL",
+    "created": "2017-09-07T11:55:05Z"
+  },
+  "enabled": false,
+  "issuerName": "MFExCzAJBgNVBAYTAkVTMUIwQAYDVQQDDDlBdXRvcmlkYWQgZGUgQ2VydGlmaWNhY2lvbiBGaXJtYXByb2Zlc2lvbmFsIENJRiBBNjI2MzQwNjg=",
+  "serialNumber": "QwCyx4wTlCQ=",
+  "id": "56e5b51e-6b90-4b87-8ca0-4f58d49e648d",
+  "lastModified": 0
+}

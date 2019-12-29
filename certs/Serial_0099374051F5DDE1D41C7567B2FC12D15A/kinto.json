@@ -1,0 +1,15 @@
+{
+  "schema": 1516131690774,
+  "details": {
+    "bug": "https://bugzilla.mozilla.org/show_bug.cgi?id=1430498",
+    "who": "jc@mozilla.com",
+    "why": "",
+    "name": "registry problem",
+    "created": "2018-01-17T00:30:37.551668672Z"
+  },
+  "enabled": true,
+  "issuerName": "MHIxCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJUWDEQMA4GA1UEBxMHSG91c3RvbjEVMBMGA1UEChMMY1BhbmVsLCBJbmMuMS0wKwYDVQQDEyRjUGFuZWwsIEluYy4gQ2VydGlmaWNhdGlvbiBBdXRob3JpdHk=",
+  "serialNumber": "AJk3QFH13eHUHHVnsvwS0Vo=",
+  "id": "c3485d18-5309-46f4-a324-b72aae76d2fa",
+  "lastModified": 0
+}

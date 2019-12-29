@@ -1,0 +1,15 @@
+{
+  "schema": 1480349159276,
+  "details": {
+    "bug": "https://bugzilla.mozilla.org/show_bug.cgi?id=1250907",
+    "who": ".",
+    "why": ".",
+    "name": "IdenTrust cross certificate",
+    "created": "2016-02-24T20:04:54Z"
+  },
+  "enabled": true,
+  "issuerName": "MGExCzAJBgNVBAYTAlVTMRIwEAYDVQQKEwlJZGVuVHJ1c3QxIDAeBgNVBAsTF0lkZW5UcnVzdCBQdWJsaWMgU2VjdG9yMRwwGgYDVQQDExNJZGVuVHJ1c3QgQUNFUyBDQSAx",
+  "serialNumber": "fwAAAQAAAUrz/HmrAAAAAg==",
+  "id": "352c78aa-997c-bdbe-66ba-930d66fde011",
+  "lastModified": 0
+}

@@ -1,0 +1,15 @@
+{
+  "schema": 1506372732033,
+  "details": {
+    "bug": "https://bugzilla.mozilla.org/show_bug.cgi?id=1402128",
+    "who": "mgoodwin@mozilla.com",
+    "why": "These issue only client certificates and do not need to be trusted for SSL/TLS server authentication",
+    "name": "Add Cartão de Cidadão to OneCRL",
+    "created": "2017-09-22T18:05:01Z"
+  },
+  "enabled": false,
+  "issuerName": "MDMxCzAJBgNVBAYTAlBUMQ0wCwYDVQQKDARTQ0VFMRUwEwYDVQQDDAxFQ1JhaXpFc3RhZG8=",
+  "serialNumber": "ObszBuNYqt9If26rE5MLnA==",
+  "id": "1aadc1b7-2a94-4178-9ccb-64ba471135b7",
+  "lastModified": 0
+}

@@ -1,0 +1,15 @@
+{
+  "schema": 1504710472553,
+  "details": {
+    "bug": "https://bugzilla.mozilla.org/show_bug.cgi?id=1393281",
+    "who": "mgoodwin@mozilla.com",
+    "why": "Unknown",
+    "name": "Add FNMT's AC Representación certificate to OneCRL",
+    "created": "2017-09-07T11:55:05Z"
+  },
+  "enabled": false,
+  "issuerName": "MDsxCzAJBgNVBAYTAkVTMREwDwYDVQQKDAhGTk1ULVJDTTEZMBcGA1UECwwQQUMgUkFJWiBGTk1ULVJDTQ==",
+  "serialNumber": "YcLU1PaprndVkma5ja/WIQ==",
+  "id": "756c3e21-c95d-4e5d-b5cb-00da9d658a78",
+  "lastModified": 0
+}

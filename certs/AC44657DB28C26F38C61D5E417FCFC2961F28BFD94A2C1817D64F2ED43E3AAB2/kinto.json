@@ -1,0 +1,15 @@
+{
+  "schema": 1480349159276,
+  "details": {
+    "bug": "https://bugzilla.mozilla.org/show_bug.cgi?id=1155119",
+    "who": ".",
+    "why": ".",
+    "name": "T-Systems intermediate certificate",
+    "created": "2015-05-05T11:10:09Z"
+  },
+  "enabled": true,
+  "issuerName": "MHExCzAJBgNVBAYTAkRFMRwwGgYDVQQKExNEZXV0c2NoZSBUZWxla29tIEFHMR8wHQYDVQQLExZULVRlbGVTZWMgVHJ1c3QgQ2VudGVyMSMwIQYDVQQDExpEZXV0c2NoZSBUZWxla29tIFJvb3QgQ0EgMg==",
+  "serialNumber": "ARQ=",
+  "id": "2826cef9-e4b4-53f9-e3cf-c5870fc778dd",
+  "lastModified": 0
+}

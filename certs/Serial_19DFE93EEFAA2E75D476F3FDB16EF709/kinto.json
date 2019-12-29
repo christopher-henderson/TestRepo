@@ -1,0 +1,15 @@
+{
+  "schema": 1480349159276,
+  "details": {
+    "bug": "https://bugzilla.mozilla.org/show_bug.cgi?id=1252142",
+    "who": ".",
+    "why": ".",
+    "name": "exceptional SHA-1 Certificates",
+    "created": "2016-03-01T21:21:30Z"
+  },
+  "enabled": true,
+  "issuerName": "MIG8MQswCQYDVQQGEwJVUzEXMBUGA1UEChMOVmVyaVNpZ24sIEluYy4xHzAdBgNVBAsTFlZlcmlTaWduIFRydXN0IE5ldHdvcmsxOzA5BgNVBAsTMlRlcm1zIG9mIHVzZSBhdCBodHRwczovL3d3dy52ZXJpc2lnbi5jb20vcnBhIChjKTEwMTYwNAYDVQQDEy1WZXJpU2lnbiBDbGFzcyAzIEludGVybmF0aW9uYWwgU2VydmVyIENBIC0gRzM=",
+  "serialNumber": "Gd/pPu+qLnXUdvP9sW73CQ==",
+  "id": "2da11236-c2d8-7804-7de3-ffd711406b04",
+  "lastModified": 0
+}

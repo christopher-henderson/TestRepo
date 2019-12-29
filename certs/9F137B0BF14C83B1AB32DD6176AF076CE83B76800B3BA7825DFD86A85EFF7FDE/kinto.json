@@ -1,0 +1,15 @@
+{
+  "schema": 1503344581703,
+  "details": {
+    "bug": "https://bugzilla.mozilla.org/show_bug.cgi?id=1392378",
+    "who": "",
+    "why": "",
+    "name": "",
+    "created": "2017-08-21T20:42:58Z"
+  },
+  "enabled": true,
+  "issuerName": "MFoxCzAJBgNVBAYTAklFMRIwEAYDVQQKEwlCYWx0aW1vcmUxEzARBgNVBAsTCkN5YmVyVHJ1c3QxIjAgBgNVBAMTGUJhbHRpbW9yZSBDeWJlclRydXN0IFJvb3Q=",
+  "serialNumber": "ByeLBg==",
+  "id": "e130c036-75e7-4e76-a93a-392fb9568b30",
+  "lastModified": 0
+}

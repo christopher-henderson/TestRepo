@@ -1,0 +1,15 @@
+{
+  "schema": 1480349159276,
+  "details": {
+    "bug": "https://bugzilla.mozilla.org/show_bug.cgi?id=1155145",
+    "who": ".",
+    "why": ".",
+    "name": "GlobalSign certs",
+    "created": "2016-01-18T14:46:04Z"
+  },
+  "enabled": true,
+  "issuerName": "MFwxCzAJBgNVBAYTAkJFMRUwEwYDVQQLEwxUcnVzdGVkIFJvb3QxGTAXBgNVBAoTEEdsb2JhbFNpZ24gbnYtc2ExGzAZBgNVBAMTElRydXN0ZWQgUm9vdCBDQSBHMg==",
+  "serialNumber": "YRJNfMoc12IpmW+Enpv3Pdo=",
+  "id": "3bb8f2d9-511b-121d-da29-23041d3c15c1",
+  "lastModified": 0
+}

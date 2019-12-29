@@ -1,0 +1,15 @@
+{
+  "schema": 1480349159276,
+  "details": {
+    "bug": "https://bugzilla.mozilla.org/show_bug.cgi?id=1289808",
+    "who": ".",
+    "why": ".",
+    "name": "FNMT revoked intermediate certificates",
+    "created": "2016-07-28T12:16:27Z"
+  },
+  "enabled": true,
+  "issuerName": "MDsxCzAJBgNVBAYTAkVTMREwDwYDVQQKDAhGTk1ULVJDTTEZMBcGA1UECwwQQUMgUkFJWiBGTk1ULVJDTQ==",
+  "serialNumber": "EA==",
+  "id": "362a0532-ea75-9bc6-2e50-35d9566a6ad2",
+  "lastModified": 0
+}

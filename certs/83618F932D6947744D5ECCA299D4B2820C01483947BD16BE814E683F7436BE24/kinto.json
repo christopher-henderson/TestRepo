@@ -1,0 +1,15 @@
+{
+  "schema": 1480349159276,
+  "details": {
+    "bug": "https://bugzilla.mozilla.org/show_bug.cgi?id=1150585",
+    "who": ".",
+    "why": ".",
+    "name": "XS4ALL certificate",
+    "created": "2015-04-07T11:04:11Z"
+  },
+  "enabled": true,
+  "issuerName": "MIGQMQswCQYDVQQGEwJHQjEbMBkGA1UECBMSR3JlYXRlciBNYW5jaGVzdGVyMRAwDgYDVQQHEwdTYWxmb3JkMRowGAYDVQQKExFDT01PRE8gQ0EgTGltaXRlZDE2MDQGA1UEAxMtQ09NT0RPIFJTQSBEb21haW4gVmFsaWRhdGlvbiBTZWN1cmUgU2VydmVyIENB",
+  "serialNumber": "UoRGnb96CUDTxIqVry6LBg==",
+  "id": "9084bc79-01cf-2ddc-b077-cd6c6251dd2b",
+  "lastModified": 0
+}

@@ -1,0 +1,15 @@
+{
+  "schema": 1480349159276,
+  "details": {
+    "bug": "https://bugzilla.mozilla.org/show_bug.cgi?id=1149603",
+    "who": ".",
+    "why": ".",
+    "name": "MCSHOLDING intermediate certificate",
+    "created": "2015-03-31T14:53:16Z"
+  },
+  "enabled": true,
+  "issuerName": "MDIxCzAJBgNVBAYTAkNOMQ4wDAYDVQQKEwVDTk5JQzETMBEGA1UEAxMKQ05OSUMgUk9PVA==",
+  "serialNumber": "STMAjg==",
+  "id": "c9897d2c-c68e-3c02-2f39-678954b0cf3e",
+  "lastModified": 0
+}

@@ -1,0 +1,15 @@
+{
+  "schema": 1480349159276,
+  "details": {
+    "bug": "https://bugzilla.mozilla.org/show_bug.cgi?id=1181126",
+    "who": ".",
+    "why": ".",
+    "name": "RCS Certification Authority",
+    "created": "2015-07-13T09:05:40Z"
+  },
+  "enabled": true,
+  "issuerName": "MDcxJDAiBgNVBAMTG1JDUyBDZXJ0aWZpY2F0aW9uIEF1dGhvcml0eTEPMA0GA1UEChMGSFQgc3Js",
+  "serialNumber": "AN9bfYOvlR1t",
+  "id": "18c0d37b-739d-04c6-04f2-a615be5b9948",
+  "lastModified": 0
+}

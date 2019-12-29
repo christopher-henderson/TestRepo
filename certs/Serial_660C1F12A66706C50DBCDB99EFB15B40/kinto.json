@@ -1,0 +1,15 @@
+{
+  "schema": 1480349159276,
+  "details": {
+    "bug": "https://bugzilla.mozilla.org/show_bug.cgi?id=1267648",
+    "who": ".",
+    "why": ".",
+    "name": "Symantec test certificates",
+    "created": "2016-04-28T21:08:07Z"
+  },
+  "enabled": true,
+  "issuerName": "MGgxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1HZW9UcnVzdCBJbmMuMR0wGwYDVQQLExREb21haW4gVmFsaWRhdGVkIFNTTDEiMCAGA1UEAxMZR2VvVHJ1c3QgRFYgU1NMIFNIQTI1NiBDQQ==",
+  "serialNumber": "ZgwfEqZnBsUNvNuZ77FbQA==",
+  "id": "73ae5fed-730d-94db-04ef-2aafd5ff75b8",
+  "lastModified": 0
+}

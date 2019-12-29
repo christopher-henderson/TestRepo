@@ -1,0 +1,15 @@
+{
+  "schema": 1485795317518,
+  "details": {
+    "bug": "https://bugzilla.mozilla.org/show_bug.cgi?id=1334069",
+    "who": ".",
+    "why": ".",
+    "name": "Revoked intermediates",
+    "created": "2017-01-31T23:06:38Z"
+  },
+  "enabled": true,
+  "issuerName": "MFwxCzAJBgNVBAYTAkJFMRUwEwYDVQQLEwxUcnVzdGVkIFJvb3QxGTAXBgNVBAoTEEdsb2JhbFNpZ24gbnYtc2ExGzAZBgNVBAMTElRydXN0ZWQgUm9vdCBDQSBHMg==",
+  "serialNumber": "Iqpyf/YoGgvHc8HiDAxAI8o=",
+  "id": "6fa017d2-461c-8de0-f8a1-ab0531097d8e",
+  "lastModified": 0
+}

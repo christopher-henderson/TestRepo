@@ -1,0 +1,15 @@
+{
+  "schema": 1480349159276,
+  "details": {
+    "bug": "https://bugzilla.mozilla.org/show_bug.cgi?id=1309305",
+    "who": ".",
+    "why": ".",
+    "name": "Hongkong Post e-Cert CA 1-10 certificates",
+    "created": "2016-11-03T12:49:39Z"
+  },
+  "enabled": true,
+  "issuerName": "MEcxCzAJBgNVBAYTAkhLMRYwFAYDVQQKEw1Ib25na29uZyBQb3N0MSAwHgYDVQQDExdIb25na29uZyBQb3N0IFJvb3QgQ0EgMQ==",
+  "serialNumber": "BGU=",
+  "id": "4de7908c-45e7-3b7f-a91a-8cefb1ecf830",
+  "lastModified": 0
+}

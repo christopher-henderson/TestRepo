@@ -1,0 +1,15 @@
+{
+  "schema": 1497542826302,
+  "details": {
+    "bug": "https://bugzilla.mozilla.org/show_bug.cgi?id=1374809",
+    "who": ".",
+    "why": "Private key leaked",
+    "name": "Leaked private key for Cisco cert",
+    "created": "2017-06-21T12:45:09Z"
+  },
+  "enabled": false,
+  "issuerName": "MF4xCzAJBgNVBAYTAlVTMTAwLgYDVQQKEydIeWRyYW50SUQgKEF2YWxhbmNoZSBDbG91ZCBDb3Jwb3JhdGlvbikxHTAbBgNVBAMTFEh5ZHJhbnRJRCBTU0wgSUNBIEcy",
+  "serialNumber": "ZhcM4uyLfYi04utzLnOP46Z89nI=",
+  "id": "bb8ba6ba-4e19-407d-ab9d-9f8aafd2c312",
+  "lastModified": 0
+}

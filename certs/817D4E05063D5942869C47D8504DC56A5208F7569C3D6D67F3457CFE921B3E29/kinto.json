@@ -1,0 +1,15 @@
+{
+  "schema": 1480349159276,
+  "details": {
+    "bug": "https://bugzilla.mozilla.org/show_bug.cgi?id=1197885",
+    "who": ".",
+    "why": ".",
+    "name": "SECOM intermediate certificate",
+    "created": "2016-07-21T16:52:32Z"
+  },
+  "enabled": true,
+  "issuerName": "MFAxCzAJBgNVBAYTAkpQMRgwFgYDVQQKEw9TRUNPTSBUcnVzdC5uZXQxJzAlBgNVBAsTHlNlY3VyaXR5IENvbW11bmljYXRpb24gUm9vdENBMQ==",
+  "serialNumber": "Ermwxw==",
+  "id": "1220feb9-9e66-0b24-3409-c5d1a1f8d24f",
+  "lastModified": 0
+}

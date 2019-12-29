@@ -1,0 +1,15 @@
+{
+  "schema": 1483471393228,
+  "details": {
+    "bug": "https://bugzilla.mozilla.org/show_bug.cgi?id=1315199",
+    "who": ".",
+    "why": ".",
+    "name": "Revoked intermediates",
+    "created": "2017-01-03T18:41:53Z"
+  },
+  "enabled": true,
+  "issuerName": "MEIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1HZW9UcnVzdCBJbmMuMRswGQYDVQQDExJHZW9UcnVzdCBHbG9iYWwgQ0E=",
+  "serialNumber": "AjqL",
+  "id": "4be7b89c-27a6-e95e-c6f9-bf652d4a0b97",
+  "lastModified": 0
+}

@@ -1,0 +1,15 @@
+{
+  "schema": 1503344581703,
+  "details": {
+    "bug": "https://bugzilla.mozilla.org/show_bug.cgi?id=1381863",
+    "who": "mgoodwin@mozilla.com",
+    "why": "CA request",
+    "name": "TÜRKTRUST Nesne İmzalama Sertifikası Hizmetleri H5 - Add TurkTrust Intermediate Certs to OneCRL per CA's request",
+    "created": "2017-08-21T16:42:55Z"
+  },
+  "enabled": false,
+  "issuerName": "MIGxMQswCQYDVQQGEwJUUjEPMA0GA1UEBwwGQW5rYXJhMU0wSwYDVQQKDERUw5xSS1RSVVNUIEJpbGdpIMSwbGV0acWfaW0gdmUgQmlsacWfaW0gR8O8dmVubGnEn2kgSGl6bWV0bGVyaSBBLsWeLjFCMEAGA1UEAww5VMOcUktUUlVTVCBFbGVrdHJvbmlrIFNlcnRpZmlrYSBIaXptZXQgU2HEn2xhecSxY8Sxc8SxIEg1",
+  "serialNumber": "Aay2vr4aoUeZ",
+  "id": "af014072-16c1-4375-94ac-e8ee7611ccd3",
+  "lastModified": 0
+}

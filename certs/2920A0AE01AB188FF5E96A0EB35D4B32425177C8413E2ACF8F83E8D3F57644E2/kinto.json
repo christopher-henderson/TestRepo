@@ -1,0 +1,15 @@
+{
+  "schema": 1497542606111,
+  "details": {
+    "bug": "https://bugzilla.mozilla.org/show_bug.cgi?id=1372336",
+    "who": ".",
+    "why": "Banca d' Italia does not have a current audit for Baseline Requirements compliance",
+    "name": "Banca d'Italia Root's X-Certificate",
+    "created": "2017-06-15T16:43:23Z"
+  },
+  "enabled": false,
+  "issuerName": "MFoxCzAJBgNVBAYTAklFMRIwEAYDVQQKEwlCYWx0aW1vcmUxEzARBgNVBAsTCkN5YmVyVHJ1c3QxIjAgBgNVBAMTGUJhbHRpbW9yZSBDeWJlclRydXN0IFJvb3Q=",
+  "serialNumber": "ByemaA==",
+  "id": "7df83512-01f2-4d2c-af53-fcf4d87defd9",
+  "lastModified": 0
+}

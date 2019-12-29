@@ -1,0 +1,15 @@
+{
+  "schema": 1506372732033,
+  "details": {
+    "bug": "https://bugzilla.mozilla.org/show_bug.cgi?id=1402158",
+    "who": "mgoodwin@mozilla.com",
+    "why": ".",
+    "name": "Certinomis Cross-Signed StartCom certs",
+    "created": "2017-09-22T18:05:01Z"
+  },
+  "enabled": false,
+  "issuerName": "MFoxCzAJBgNVBAYTAkZSMRMwEQYDVQQKEwpDZXJ0aW5vbWlzMRcwFQYDVQQLEw4wMDAyIDQzMzk5ODkwMzEdMBsGA1UEAxMUQ2VydGlub21pcyAtIFJvb3QgQ0E=",
+  "serialNumber": "Z7mwlz4NA2s+8dnwRzT/RvK9ZZQ=",
+  "id": "0f1e6e75-0f69-407f-bccd-5838401393eb",
+  "lastModified": 0
+}
