@@ -1,5 +1,0 @@
-# CN=Entrust Root Certification Authority,OU=(c) 2006 Entrust\, Inc.,OU=www.entrust.net/CPS is incorporated by reference,O=Entrust\, Inc.,C=US
-### Snapshot of crt.sh
-##### Click [here](https://crt.sh/?serial=456B9ADC) for a live crt.sh report
-
----

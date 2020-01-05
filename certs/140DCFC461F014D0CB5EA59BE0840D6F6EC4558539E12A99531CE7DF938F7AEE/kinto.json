@@ -1,5 +1,5 @@
 {
-  "schema": 1535568466398,
+  "schema": 1535652547998,
   "details": {
     "bug": "https://bugzilla.mozilla.org/show_bug.cgi?id=1487485",
     "who": "",
@@ -10,6 +10,6 @@
   "enabled": true,
   "issuerName": "MDwxHjAcBgNVBAMMFUF0b3MgVHJ1c3RlZFJvb3QgMjAxMTENMAsGA1UECgwEQXRvczELMAkGA1UEBhMCREU=",
   "serialNumber": "W2qOjVqGcY8=",
-  "id": "aa81cbe1-031c-4e40-b2d1-e6b9ec6abd7e",
+  "id": "724dc57b-1305-4bc3-82af-90d7457e08b7",
   "lastModified": 0
 }
